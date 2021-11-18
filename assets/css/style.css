@@ -1,0 +1,79 @@
+body {
+  background: #a41119;
+  /* background: #fff; */
+  font-family: "Montserrat", sans-serif;
+}
+.row {
+  margin-top: 50px;
+}
+.btn-contato {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.btn-danger {
+  background: #a21117;
+  border-color: #a21117;
+}
+.btn-danger:hover {
+  background: #a8131a;
+  border-color: #a8131a;
+}
+.logo-farm {
+  width: 261px;
+}
+.farmaceutico {
+  width: 399px;
+}
+
+.entrega {
+  background: #fff;
+  color: #db9600;
+  font-size: 42px;
+  width: 480px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+}
+.ganhe {
+  font-size: 80px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+.banner p {
+  color: white;
+  font-size: 18px;
+}
+span {
+  font-size: 50px;
+  color: #db9600;
+}
+.btn-success {
+  margin-top: 50px;
+  background: #51dc85;
+  display: flex;
+  gap: 10px;
+  width: 280px;
+  font-size: 24px;
+  font-weight: 700;
+  justify-content: center;
+  border-radius: 50px;
+}
+main {
+  padding: 80px;
+}
+#new-products {
+  background: #fff;
+  max-width: 100vw;
+  height: 600px;
+  padding: 0;
+  margin: 0;
+}
+
+#new-products .card img {
+  height: 150px;
+  width: 150px;
+  margin: 2em auto;
+}
